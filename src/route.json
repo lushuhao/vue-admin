@@ -1,0 +1,188 @@
+[
+  {
+    "path": "/home",
+    "name": "home",
+    "view": "home",
+    "title": "首页"
+  },
+  {
+    "path": "/backEndAccount",
+    "name": "backEndAccount",
+    "view": "backEndAccount",
+    "title": "后台账户列表"
+  },
+  {
+    "path": "/clientAccount",
+    "name": "clientAccount",
+    "view": "clientAccount",
+    "title": "客户账户列表"
+  },
+  {
+    "path": "/clientInfo",
+    "name": "clientInfo",
+    "view": "clientInfo",
+    "title": "客户信息管理"
+  },
+  {
+    "path": "/clientConsumeInfo",
+    "name": "clientConsumeInfo",
+    "view": "clientConsumeInfo",
+    "title": "客户消费明细"
+  },
+  {
+    "path": "/brokerInfo",
+    "name": "brokerInfo",
+    "view": "brokerInfo",
+    "title": "经纪人信息"
+  },
+  {
+    "path": "/stockCourse",
+    "name": "stockCourse",
+    "view": "stockCourse",
+    "title": "教程列表"
+  },
+  {
+    "path": "/stockApplication",
+    "name": "stockApplication",
+    "view": "stockApplication",
+    "title": "报名列表"
+  },
+  {
+    "path": "/fightList",
+    "name": "fightList",
+    "view": "fightList",
+    "title": "对战统计表"
+  },
+  {
+    "path": "/fightDataSetting",
+    "name": "fightDataSetting",
+    "view": "fightDataSetting",
+    "title": "数据设置"
+  },
+  {
+    "path": "/mockStockAnalyze",
+    "name": "mockStockAnalyze",
+    "view": "mockStockAnalyze",
+    "title": "模拟炒股分析"
+  },
+  {
+    "path": "/mockStockSetting",
+    "name": "mockStockSetting",
+    "view": "mockStockSetting",
+    "title": "手续费设置"
+  },
+  {
+    "path": "/masterArticle",
+    "name": "masterArticle",
+    "view": "masterArticle",
+    "title": "文章管理"
+  },
+  {
+    "path": "/friendCircle",
+    "name": "friendCircle",
+    "view": "friendCircle",
+    "title": "动态管理"
+  },
+  {
+    "path": "/friendCircleComment",
+    "name": "friendCircleComment",
+    "view": "friendCircleComment",
+    "title": "评论管理"
+  },
+  {
+    "path": "/clientFeedback",
+    "name": "clientFeedback",
+    "view": "clientFeedback",
+    "title": "客户反馈"
+  },
+  {
+    "path": "/customerServiceSetting",
+    "name": "customerServiceSetting",
+    "view": "customerServiceSetting",
+    "title": "客服设置"
+  },
+  {
+    "path": "/assetAnalysis",
+    "name": "assetAnalysis",
+    "view": "assetAnalysis",
+    "title": "平台资产"
+  },
+  {
+    "path": "/rechargeAnalysis",
+    "name": "rechargeAnalysis",
+    "view": "rechargeAnalysis",
+    "title": "充值分析"
+  },
+  {
+    "path": "/rechargeRecord",
+    "name": "rechargeRecord",
+    "view": "rechargeRecord",
+    "title": "充值及消费记录"
+  },
+  {
+    "path": "/userDataAnalysis",
+    "name": "userDataAnalysis",
+    "view": "userDataAnalysis",
+    "title": "用户数据分析"
+  },
+  {
+    "path": "/userSourceAnalysis",
+    "name": "userSourceAnalysis",
+    "view": "userSourceAnalysis",
+    "title": "用户来源分析"
+  },
+  {
+    "path": "/settingCarousel",
+    "name": "settingCarousel",
+    "view": "settingCarousel",
+    "title": "轮播设置"
+  },
+  {
+    "path": "/settingFight",
+    "name": "settingFight",
+    "view": "settingFight",
+    "title": "对战规则"
+  },
+  {
+    "path": "/settingStock",
+    "name": "settingStock",
+    "view": "settingStock",
+    "title": "模拟炒股规则"
+  },
+  {
+    "path": "/settingGeneralize",
+    "name": "settingGeneralize",
+    "view": "settingGeneralize",
+    "title": "推广奖励方式文档"
+  },
+  {
+    "path": "/settingRegister",
+    "name": "settingRegister",
+    "view": "settingRegister",
+    "title": "注册协议"
+  },
+  {
+    "path": "/settingHelp",
+    "name": "settingHelp",
+    "view": "settingHelp",
+    "title": "帮助中心"
+  },
+  {
+    "path": "/settingAboutUS",
+    "name": "settingAboutUS",
+    "view": "settingAboutUS",
+    "title": "关于我们"
+  },
+  {
+    "path": "/settingMoney",
+    "name": "settingMoney",
+    "view": "settingMoney",
+    "title": "资金设置"
+  },
+  {
+    "path": "/settingMessage",
+    "name": "settingMessage",
+    "view": "settingMessage",
+    "title": "发布平台消息"
+  }
+]
