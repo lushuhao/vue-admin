@@ -2,8 +2,11 @@
 后台管理界面，数据均为本地模拟数据
 
 使用Vue2 + vue-router + Element UI
+
 很多界面都是根据官网demo改编http://element.eleme.io/#/zh-CN/component/installation
+
 图形库采用G2   https://antv.alipay.com/g2/doc/
+
 富文本编辑器wangEditor  http://www.wangeditor.com/
 
 > A Vue.js project
